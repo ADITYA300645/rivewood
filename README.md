@@ -7,8 +7,11 @@ to bring more young audiance
 and improve sales 
 
 projects key features :- 
+
     Sleek Ui more like social media
+    
     animations and interactive modals
+    
     Authorization
   
 
