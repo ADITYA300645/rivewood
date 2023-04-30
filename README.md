@@ -8,9 +8,9 @@ and improve sales
 
 projects key features :- 
 
-    Sleek Ui more like social media
+    Three 3d model integration
     
-    animations and interactive modals
+    animations and interactive UI modals
     
     Authorization
   
