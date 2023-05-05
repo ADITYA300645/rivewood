@@ -2,9 +2,7 @@
 
 Interactive Furniture shop
 
-Its and Idea to mix Ecom with social media
-to bring more young audiance 
-and improve sales 
+an interactive application that uses 3D models to showcase and sell furniture
 
 projects key features :- 
 
